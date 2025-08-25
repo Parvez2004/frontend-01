@@ -28,3 +28,9 @@
     font-weight: bolder;
     background-color: #8d8989;
 }
+
+@media only screen and (max-width: 600px){
+    .home{
+        width: 100%;
+    }
+}
